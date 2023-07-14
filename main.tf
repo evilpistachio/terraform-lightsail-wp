@@ -71,9 +71,6 @@ resource "aws_lightsail_instance" "instance" {
   }
 }
 
-
-
-
 #connection {
 # type        = "ssh"
 # user        = "bitnami"
