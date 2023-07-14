@@ -33,7 +33,6 @@ variable "instance_key_pair" {
 
 }
 
-
 variable "static_ip" {
   type    = string
   default = "Wordpress-IP"
